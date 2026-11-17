@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Krishnam 👋
 
-<!--
-**krishnnm52-sys/krishnnm52-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Biomedical Engineering** undergraduate passionate about bridging clinical physiology with **Software Engineering, Digital Signal Processing (DSP), and Machine Learning**.
 
-Here are some ideas to get you started:
+- 🔭 **Currently building:** End-to-end ECG Arrhythmia Detection & Classification pipeline using the MIT-BIH Database (`Python`, `SciPy`, `Scikit-Learn`)
+- 🌱 **Core Interests:** Healthcare AI, Medical Image & Biosignal Processing, Clinical Decision Support Systems
+- 🛠️ **Tech Stack:** Python, MATLAB, NumPy, SciPy, Pandas, Scikit-Learn, WFDB, Git
+- 🎯 **Goal:** Engineering impactful MedTech software solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Featured Work
+- **[ECG Arrhythmia Classification (MIT-BIH)](#)** — Zero-phase Butterworth filtering, R-peak heartbeat segmentation, and Random Forest classification with clinical sensitivity focus. *(Coming soon)*
